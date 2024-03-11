@@ -1,6 +1,3 @@
-
-
-
 public class MaxSubArray2 {
     public static void MaxsubArraySearch(int[]arr){
         int currSum=0;
