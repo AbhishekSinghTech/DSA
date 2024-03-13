@@ -19,7 +19,7 @@ public class TrappingRainWater {
         System.out.println("The amount of rainwater trapped is "+trappedWater);
     }
     public static void main(String[] args) {
-        int[] heights = new int[]{4,2,0,6,3,2,5};
+        int[] heights = new int[]{1,8,6,2,5,4,8,3,7};
         trap(heights);
     }
 }
