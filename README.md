@@ -2,7 +2,7 @@
 Data Structure &amp; Algorithm by Java
 
 # Chapter 01: Introduction to Data Structures and Algorithms
--Data Structure is a way of collecting and organising data in such a way that we can perform operations on these data in an effective way.
+Data Structure is a way of collecting and organising data in such a way that we can perform operations on these data in an effective way.
 ## Why are Data Structures Important?
 -Efficient Data Management: Store data in an organized manner.
 -Improve Performance: Accessing, searching, inserting or deleting elements become faster.
