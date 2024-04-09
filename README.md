@@ -43,3 +43,41 @@ Data Structure is a way of collecting and organising data in such a way that we 
 # Section 02: Arrays in Java
 - Array is a linear data structure.It is a container object that holds a fixed number of values of a single type. The length of an array is established when the array is created. After creation, its length is fixed.
 ## Application of Array Data Structure
+- A basic application of Arrays can be storing data in tabular format. For example, if you have a list of students
+- It is also used in speech processing, in which each speech signal is an array. 
+- Book titles in a Library Management Systems.
+- Online ticket booking.
+- Contacts on a cell phone.
+- To store the possible moves of chess on a chessboard.
+- To store images of a specific size on an android or laptop.
+## Advantages
+1. Easy to use
+   - Arrays are the simplest form of data structures and are easy to use. They allow us to store and access elements in a contiguous memory block.
+2. Random access
+   - Arrays allow us to access elements via their index randomly.
+3. Performance
+   - The performance of array is very good as it allows random access to the elements.
+## Disadvantages
+1. Fixed-size
+   - The size of an array is fixed. Once the size is declared, it cannot be changed.
+2. Lack of flexibility
+   - Arrays are not very flexible as they have a fixed size. If you want to add more data, you cannot do it in this array. You must create another array with larger capacity and copy old array elements into the new one.
+3. Overhead
+   - When working with arrays, an overhead is involved in terms of time and memory. For example, when creating an array, you must allocate a certain amount of memory space for the array in advance, even if you need to know how much data will be stored.
+## Arrays Creations
+1. Declares an array of integers
+   - int[] anArray;
+   - Allocates memory for 10 integers
+   - anArray = new int[10]; 
+   - Initialize first element
+   - anArray[0] = 100;
+   - int anArray[]={10,20,30};
+
+## Accessing Elements of An Array
+1. Using Index
+   - Syntax : arr[index]
+   - Example : int x=arr[3]; //accessing 4th element using index 3
+2. Using dot operator (.)
+   - Syntax : arr.length
+   - Example : System.out.println(anArray.length);//prints number of elements in array
+## Searching Techniques
