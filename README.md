@@ -16,7 +16,6 @@ Data Structure is a way of collecting and organising data in such a way that we 
 5. Problem Solving
    - Provides a framework for solving complex problems using simple building blocks (data structures).
 
-
 ## Types of Data Structures
 1. Linear Data Structures (One Dimensional)
    - Arrays
@@ -30,11 +29,16 @@ Data Structure is a way of collecting and organising data in such a way that we 
    - Queues
    - Heaps
 ## What are the Real World Applications of Data Structures?
--Database Management Systems - Data structures are used to store and organize large amounts of data in a structured manner.
--Operating Systems - Data structures are used to manage resources, such as memory allocation and process scheduling. 
--Graphical User Interfaces - Data structures are used to store and display hierarchical data, such as the file system in a computer's file explorer. 
--Computer Networks - Data structures are used to store information about network topology and to implement routing algorithms. 
-
+1. Database Management Systems
+   - Data structures are used to store and organize large amounts of data in a structured manner.
+2. Operating Systems
+   - Data structures are used to manage resources, such as memory allocation and process scheduling.
+3. Graphical User Interfaces
+   - Data structures are used to store and display hierarchical data, such as the file system in a computer's file explorer. 
+4. Computer Networks 
+    - Data structures are used to store information about network topology and to implement routing algorithms.
+5. Web Servers
+    - Used to store information about web pages so that they can be served efficiently when requested.
 
 # Section 02: Arrays in Java
 - Array is a linear data structure.It is a container object that holds a fixed number of values of a single type. The length of an array is established when the array is created. After creation, its length is fixed.
