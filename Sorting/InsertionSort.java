@@ -19,6 +19,7 @@ public class InsertionSort{
         for(int i=0;i<arr.length;i++){
             arr[i]=sc.nextInt();
         }
+        sc.close();
         System.out.println( "The original array is : ");  
         for(int j : arr)  {     
           System.out.print(j + "\t");        
